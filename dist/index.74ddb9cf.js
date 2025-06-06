@@ -1,0 +1,2 @@
+new Swiper(".swiper",{spaceBetween:20,slidesPerGroup:1,loop:!0,navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"},pagination:{el:".swiper-pagination",clickable:!0,dynamicBullets:!0},breakpoints:{1024:{slidesPerView:3,pagination:!1},768:{slidesPerView:2,pagination:{el:".swiper-pagination",clickable:!0}},480:{slidesPerView:1,pagination:{el:".swiper-pagination",clickable:!0}}}});
+//# sourceMappingURL=index.74ddb9cf.js.map

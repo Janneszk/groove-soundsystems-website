@@ -1,0 +1,143 @@
+.swiper {
+  position: relative;
+  padding-top: 10px; /* Platz für die Pfeile oben hinzufügen */
+  padding-bottom: 40px; /* Genug Platz unten für die Punkte */
+  width: 100%;
+  height: 540px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  border-radius: 4px;
+  overflow: hidden;
+  /*padding-left: 10px;
+  padding-right: 10px;*/
+  border: 1px solid #CFD8DC;
+}
+
+.swiper-slide img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  user-select: none; /* Verhindert das Markieren */
+  -webkit-user-select: none; /* Für Safari */
+  -moz-user-select: none; /* Für Firefox */
+  -ms-user-select: none; /* Für ältere Edge-Versionen */
+}
+
+/* Stil für Navigation */
+.swiper-button-next,
+.swiper-button-prev {
+  width: 40px;
+  height: 0px;
+  top:0;
+  display: none;
+}
+
+.swiper-button-next {
+  right: 20px; /* Abstand vom rechten Rand */
+}
+
+.swiper-button-prev {
+  right: 70px; /* Direkt links neben dem "Next"-Pfeil */
+  left: auto; /* Entfernt das vorherige left-Alignment */
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 20px;
+}
+
+.swiper-button-next:active,
+.swiper-button-prev:active {
+  transform: scale(0.90); /* Noch sanftere Verkleinerung */
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.swiper-pagination {
+  position: absolute;
+  bottom: -10px; /* Außerhalb des Swiper-Containers */
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  text-align: center;
+  z-index: 10;
+}
+
+/* Aktiver Dot (der gerade aktive Slide) */
+.swiper-pagination-bullet-active {
+  background:  var(--primary-color) !important; /* Deine Wunschfarbe für den aktiven Punkt */
+  opacity: 1; /* Volle Deckkraft für den aktiven Punkt */
+}
+
+@media screen and (min-width: 768px) {
+  .row:has(.swiper) {
+    margin-left: 100px;
+    margin-right: 100px;
+  }
+
+  .swiper {
+    position: relative;
+    padding-top: 80px; /* Platz für die Pfeile oben hinzufügen */
+    padding-bottom: 40px; /* Genug Platz unten für die Punkte */
+    width: 100%;
+    height: 540px;
+  }
+
+  .swiper-slide {
+    padding-left:unset;
+    padding-right: unset;
+    border: unset;
+  }
+
+  .swiper-button-next,
+.swiper-button-prev {
+  width: 50px;
+  height: 50px;
+  top: 25px;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 5%;
+  width: 40px;
+  height: 40px;
+  top: 40px; /* Bringt die Pfeile über die Bilder */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  
+  z-index: 10; /* Stellt sicher, dass die Pfeile sichtbar bleiben */
+  user-select: none; /* Verhindert das Markieren */
+  -webkit-user-select: none; /* Für Safari */
+  -moz-user-select: none; /* Für Firefox */
+  -ms-user-select: none; /* Für ältere Edge-Versionen */
+  transition: transform 0.2s ease, background 0.2s ease;
+  
+}
+
+.swiper-button-next {
+  right: 20px; /* Abstand vom rechten Rand */
+}
+
+.swiper-button-prev {
+  right: 80px; /* Direkt links neben dem "Next"-Pfeil */
+  left: auto; /* Entfernt das vorherige left-Alignment */
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+  font-size: 24px;
+}
+
+@media (min-width: 1024px) {
+  .swiper-pagination {
+      display: none !important;
+  }
+}
+
+}
