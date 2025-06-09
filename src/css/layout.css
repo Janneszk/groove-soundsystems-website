@@ -1,21 +1,15 @@
-.row {
-  margin: 0; 
-}
-
-section {
-  background-color: var(--secondary-color);
-  padding-bottom: 80px;
-}
-
-section .row{
-  padding: 30px 0;
-}
-
 header {
   height: 100vh; 
 }
 
 .head-container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  color: var(--secondary-color);
+}
+
+.bottom-container {
   width: 100%;
   height: 100vh;
   display: flex;
@@ -39,58 +33,49 @@ header {
   z-index: -1;
 }
 
-.text-column {
-  padding: 0px 10px;
+.container-fluid {
+		padding: 0 ;
 }
 
-.flex-column {
-  display: flex;
-  align-items:center;
-  justify-content: start;
+.row{
+  margin: 0;
 }
 
-#intro{
-	padding-bottom: 0px;
+section {
+  background-color: var(--secondary-color);
+}
+
+section .row{
+  padding-top: var(--space-md);
+  padding-bottom: var(--space-md);
 }
 
 #intro .row{
-  padding-top: 60px;
-  padding-left: 30px;
-  padding-right: 30px;
+  background-color: var(--primary-color);
+  color: var(--secondary-color);
+  padding-top: var(--space-xl);
+  padding-bottom: var(--space-lg);
+  padding-left: var(--space-md);
+  padding-right: var(--space-md); 
 }
 
-#description .row{
-  padding-left: 0;
-  padding-right: 0;
+#description--amp img{
+	padding-bottom: var(--space-md);
+  display: none;
 }
 
-#description img{
-	padding-bottom: 40px;
+#description--speaker img{
+	padding-bottom: var(--space-md);
+  display: none;
 }
 
 #soundcheck{
 	background-color: transparent;
-	padding-bottom: 0px;
 }
 
 #soundcheck .row{
   background-color: transparent;
-  padding-left: 0px;
-  padding-right: 0px;
   text-align: center;
-}
-
-#product .container-fluid {
-  padding: 0 0;
-}
-
-#about .container-fluid {
-  padding: 0 0;
-}
-
-#about .row{
-  background-color: var(--highlight-section-bg);
-  margin: 0;
 }
 
 #soundcheck p,
@@ -98,26 +83,36 @@ header {
   color: var(--secondary-color);
 }
 
+#about .row{
+  background-color: var(--highlight-section-bg);
+  padding-left: var(--space-sm);
+  padding-right: var(--space-sm); 
+}
+
 #about img{
   border-radius: 50%; 
   width: 100%;
-  padding: 20px 20px;
+  padding: var(--space-sm); 
+}
+
+#contact .row {
+  padding-bottom: var(--space-lg);
 }
 
 #contact .col-lg-6:first-of-type{
 	text-align: center;
-	margin-bottom: 60px;
+	margin-bottom: 60px; 
 }
 
 #contact ul {
-	margin-top: 30px;
+	margin-top: var(--space-md);
 	padding-left: 1px;
 }
 
 #contact li {
 	display: inline;
 	list-style: none;
-	padding-right: 20px;
+	padding-right: var(--space-sm)
 }
 
 #message {
@@ -128,11 +123,29 @@ header {
   justify-content: center;
 }
 
+.mail a {
+  font-size: 1rem;
+}
+
+.text-column {
+  padding: 0px 10px; 
+}
+
+.flex-column {
+  display: flex;
+  align-items:center;
+  justify-content: start;
+}
+
 @media screen and (min-width: 768px) {
 
   .container-fluid {
-		padding: 0 50px;
+		padding: 0 var(--space-lg);
 	}
+
+  section .row {
+    padding: 50px 0; 
+  }
 
   .head-container > div:nth-child(2) > div:nth-child(1) {
     max-width: 580px;
@@ -140,37 +153,47 @@ header {
     margin-left: 100px;
   }
 
-	#product .container-fluid {
-		padding: 0 0px;
-	}
-
-	#about .container-fluid {
-		padding: 0 0;
-	}
-
-	#contact .container-fluid {
-		padding: 0 100px;
-	}
-
-  section .row {
-    padding: 50px 0;
+  .head-container video {
+    display: none;
   }
 
-  .text-column {
-      padding: 0px 50px;
+  .bottom-container {
+    display: none;
   }
 
+  .bottom-container video {
+    display: none;
+  }
+  
   #intro {
     padding-bottom: 50px;
   }
 
+  #intro .container-fluid {
+		 padding: 0 0; 
+	}
+
   #intro .row {
     padding-top: 80px;
-    padding-left: 300px;
-    padding-right: 300px;
+    padding-bottom: 80px;
+    padding-left: 350px;
+    padding-right: 350px;
   }
 
-  #description .row {
+  #description--amp .row {
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+
+  #description--amp img{
+    display: unset;
+  }
+
+  #description--speaker img{
+    display: unset;
+  }
+
+   #description--speaker .row {
     padding-left: 100px;
     padding-right: 100px;
   }
@@ -185,14 +208,26 @@ header {
     text-align: left;
   }
 
+	#product .container-fluid {
+		padding: 0 0px;
+	}
+
   #product .row {
     padding-left: 30px;
     padding-right: 30px;
   }
 
-  #about img {
+	#about .container-fluid {
+		 padding: 0 0; 
+	}
+
+   #about img {
     width: 65%;
   }
+
+	#contact .container-fluid {
+		padding: 0 100px;
+	}
 
   #contact .row:first-of-type {
     padding: 0 px;
@@ -203,14 +238,14 @@ header {
     padding-right: 100px;
   }
 
-  .mail {
-  justify-content: start;
-}
-
-  .head-container video {
-    display: none;
+  .text-column {
+    padding: 0px 50px;
   }
-  
+
+  .mail {
+    justify-content: start;
+  }
+
 }
 
 @media screen and (min-width: 1400px) {
