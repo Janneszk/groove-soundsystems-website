@@ -1,4 +1,4 @@
-5908
+5937
 86C:\Users\Jannes\Documents\groove\node_modules\htmlnano\lib\modules\removeUnusedCss.mjs121436361000000000 0
 61C:\Users\Jannes\Documents\groove\node_modules\clone\clone.iml130965576200000000 0
 83C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\cjs\_new_arrow_check.cjs121436361000000000 0
@@ -30,24 +30,24 @@
 65C:\Users\Jannes\Documents\groove\node_modules\uri-js\package.json121436361000000000 0
 78C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\default-case.js121436361000000000 0
 106C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\_\_class_static_private_method_get\package.json121436361000000000 0
-36C:\Users\Jannes\Documents\groove\src133928241050397375 1
+36C:\Users\Jannes\Documents\groove\src133939288193985584 1
 77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\ET.js121436361000000000 0
 83C:\Users\Jannes\Documents\groove\node_modules\posthtml\node_modules\posthtml-parser133696634685659370 1
 78C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\no-sequences.js121436361000000000 0
 62C:\Users\Jannes\Documents\groove\node_modules\rimraf\README.md121436361000000000 0
 81C:\Users\Jannes\Documents\groove\node_modules\type-fest\source\readonly-deep.d.ts121436361000000000 0
-62C:\Users\Jannes\Documents\groove\src\css\components\navbar.css133927339792264030 0
-63C:\Users\Jannes\Documents\groove\src\css\components\gallery.css133869391929926667 0
+62C:\Users\Jannes\Documents\groove\src\css\components\navbar.css133939288193985584 0
+63C:\Users\Jannes\Documents\groove\src\css\components\gallery.css133934969865789297 0
 65C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\_\_set133696634791829930 1
 79C:\Users\Jannes\Documents\groove\node_modules\@parcel\core\src\public\Bundle.js121436361000000000 0
 69C:\Users\Jannes\Documents\groove\node_modules\fastq\.github\workflows133696634742553360 1
 63C:\Users\Jannes\Documents\groove\node_modules\svgo\lib\style.js121436361000000000 0
-37C:\Users\Jannes\Documents\groove\dist133933243939691747 1
+37C:\Users\Jannes\Documents\groove\dist133942009222736802 1
 93C:\Users\Jannes\Documents\groove\node_modules\@parcel\core\test\fixtures\glob-like\[entry].js121436361000000000 0
 62C:\Users\Jannes\Documents\groove\node_modules\msgpackr\LICENSE121436361000000000 0
 89C:\Users\Jannes\Documents\groove\node_modules\lmdb\node_modules\node-addon-api\napi-inl.h121436361000000000 0
 57C:\Users\Jannes\Documents\groove\node_modules\ajv\lib\dot133696634769258460 1
-36C:\Users\Jannes\Documents\groove\vid133692537001019208 1
+36C:\Users\Jannes\Documents\groove\vid133939288194401303 1
 82C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\stream.js121436361000000000 0
 86C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\capitalized-comments.js121436361000000000 0
 75C:\Users\Jannes\Documents\groove\node_modules\type-fest\source\entries.d.ts121436361000000000 0
@@ -83,6 +83,29 @@
 53C:\Users\Jannes\Documents\groove\node_modules\reusify133696634673153269 1
 74C:\Users\Jannes\Documents\groove\node_modules\css-select\lib\attributes.js121436361000000000 0
 45C:\Users\Jannes\Documents\groove\vid\vid2.mp4133692536418828044 0
+75C:\Users\Jannes\Documents\groove\node_modules\lightningcss\node\ast.js.flow121436361000000000 0
+55C:\Users\Jannes\Documents\groove\node_modules\commander133696634738539379 1
+67C:\Users\Jannes\Documents\groove\node_modules\browserslist\index.js121436361000000000 0
+71C:\Users\Jannes\Documents\groove\node_modules\semver\ranges\simplify.js121436361000000000 0
+72C:\Users\Jannes\Documents\groove\node_modules\queue-microtask\index.d.ts121436361000000000 0
+81C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\no-catch-shadow.js121436361000000000 0
+69C:\Users\Jannes\Documents\groove\node_modules\text-table\package.json130254186610000000 0
+79C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\require-await.js121436361000000000 0
+63C:\Users\Jannes\Documents\groove\node_modules\base-x\LICENSE.md121436361000000000 0
+68C:\Users\Jannes\Documents\groove\node_modules\to-regex-range\LICENSE121436361000000000 0
+63C:\Users\Jannes\Documents\groove\node_modules\@parcel\utils\src133696634769949965 1
+71C:\Users\Jannes\Documents\groove\node_modules\json-buffer\test\index.js131810797120000000 0
+51C:\Users\Jannes\Documents\groove\src\css\layout.css133942001773806824 0
+60C:\Users\Jannes\Documents\groove\node_modules\domelementtype133696634679600192 1
+80C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\no-fallthrough.js121436361000000000 0
+77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\SR.js121436361000000000 0
+73C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\_\_await_value133696634776192455 1
+67C:\Users\Jannes\Documents\groove\node_modules\@lezer\common\LICENSE121436361000000000 0
+63C:\Users\Jannes\Documents\groove\node_modules\@msgpackr-extract133696634859839793 1
+84C:\Users\Jannes\Documents\groove\node_modules\ordered-binary\.nyc_output\processinfo133696634688636923 1
+77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\WF.js121436361000000000 0
+100C:\Users\Jannes\Documents\groove\node_modules\@parcel\workers\test\integration\workerfarm\console.js121436361000000000 0
+45C:\Users\Jannes\Documents\groove\vid\vid3.mp4133939288194421380 0
 79C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\block-spacing.js121436361000000000 0
 73C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\_\_export_star133696634786349184 1
 61C:\Users\Jannes\Documents\groove\node_modules\posthtml-parser133696634684825803 1
@@ -98,7 +121,7 @@
 105C:\Users\Jannes\Documents\groove\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.vcxproj121436361000000000 0
 50C:\Users\Jannes\Documents\groove\node_modules\.bin133696634853649911 1
 68C:\Users\Jannes\Documents\groove\node_modules\domelementtype\LICENSE121436361000000000 0
-40C:\Users\Jannes\Documents\groove\src\css133696620789759348 1
+40C:\Users\Jannes\Documents\groove\src\css133939288193985584 1
 87C:\Users\Jannes\Documents\groove\node_modules\svgo\plugins\removeUnknownsAndDefaults.js121436361000000000 0
 63C:\Users\Jannes\Documents\groove\node_modules\semver\preload.js121436361000000000 0
 51C:\Users\Jannes\Documents\groove\src\impressum.html133921987398371391 0
@@ -117,7 +140,7 @@
 79C:\Users\Jannes\Documents\groove\node_modules\source-map\dist\source-map.min.js131511695990000000 0
 58C:\Users\Jannes\Documents\groove\node_modules\glob\LICENSE121436361000000000 0
 62C:\Users\Jannes\Documents\groove\node_modules\cosmiconfig\dist133696634744862103 1
-47C:\Users\Jannes\Documents\groove\src\index.html133933242900449809 0
+47C:\Users\Jannes\Documents\groove\src\index.html133942007408706365 0
 74C:\Users\Jannes\Documents\groove\node_modules\nth-check\lib\esm\parse.d.ts121436361000000000 0
 71C:\Users\Jannes\Documents\groove\node_modules\cross-spawn\lib\enoent.js121436361000000000 0
 90C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\xml-serializer.js121436361000000000 0
@@ -133,7 +156,7 @@
 69C:\Users\Jannes\Documents\groove\node_modules\browserslist\error.d.ts121436361000000000 0
 74C:\Users\Jannes\Documents\groove\node_modules\fastq\.github\dependabot.yml121436361000000000 0
 77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\RS.js121436361000000000 0
-50C:\Users\Jannes\Documents\groove\src\js\gallery.js133921146956668550 0
+50C:\Users\Jannes\Documents\groove\src\js\gallery.js133939279167552450 0
 67C:\Users\Jannes\Documents\groove\node_modules\js-yaml\lib\dumper.js121436361000000000 0
 57C:\Users\Jannes\Documents\groove\node_modules\is-arrayish133696634738089353 1
 86C:\Users\Jannes\Documents\groove\node_modules\csso\lib\restructure\3-disjoinRuleset.js121436361000000000 0
@@ -148,27 +171,8 @@
 55C:\Users\Jannes\Documents\groove\node_modules\esrecurse133696634727155677 1
 70C:\Users\Jannes\Documents\groove\node_modules\text-table\test\table.js130127403870000000 0
 88C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\require-unicode-regexp.js121436361000000000 0
-51C:\Users\Jannes\Documents\groove\src\css\components133695760308019595 1
+51C:\Users\Jannes\Documents\groove\src\css\components133939288193985584 1
 95C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\css-text-align-last.js121436361000000000 0
-75C:\Users\Jannes\Documents\groove\node_modules\lightningcss\node\ast.js.flow121436361000000000 0
-55C:\Users\Jannes\Documents\groove\node_modules\commander133696634738539379 1
-67C:\Users\Jannes\Documents\groove\node_modules\browserslist\index.js121436361000000000 0
-71C:\Users\Jannes\Documents\groove\node_modules\semver\ranges\simplify.js121436361000000000 0
-72C:\Users\Jannes\Documents\groove\node_modules\queue-microtask\index.d.ts121436361000000000 0
-81C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\no-catch-shadow.js121436361000000000 0
-69C:\Users\Jannes\Documents\groove\node_modules\text-table\package.json130254186610000000 0
-79C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\require-await.js121436361000000000 0
-63C:\Users\Jannes\Documents\groove\node_modules\base-x\LICENSE.md121436361000000000 0
-68C:\Users\Jannes\Documents\groove\node_modules\to-regex-range\LICENSE121436361000000000 0
-63C:\Users\Jannes\Documents\groove\node_modules\@parcel\utils\src133696634769949965 1
-71C:\Users\Jannes\Documents\groove\node_modules\json-buffer\test\index.js131810797120000000 0
-51C:\Users\Jannes\Documents\groove\src\css\layout.css133928232787789587 0
-60C:\Users\Jannes\Documents\groove\node_modules\domelementtype133696634679600192 1
-80C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\no-fallthrough.js121436361000000000 0
-77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\SR.js121436361000000000 0
-73C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\_\_await_value133696634776192455 1
-67C:\Users\Jannes\Documents\groove\node_modules\@lezer\common\LICENSE121436361000000000 0
-63C:\Users\Jannes\Documents\groove\node_modules\@msgpackr-extract133696634859839793 1
 51C:\Users\Jannes\Documents\groove\node_modules\acorn133696634745072099 1
 62C:\Users\Jannes\Documents\groove\node_modules\srcset\readme.md121436361000000000 0
 68C:\Users\Jannes\Documents\groove\node_modules\safe-buffer\index.d.ts121436361000000000 0
@@ -177,7 +181,7 @@
 64C:\Users\Jannes\Documents\groove\node_modules\doctrine\README.md121436361000000000 0
 83C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\func-call-spacing.js121436361000000000 0
 77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\KY.js121436361000000000 0
-50C:\Users\Jannes\Documents\groove\src\css\style.css133927341915109419 0
+50C:\Users\Jannes\Documents\groove\src\css\style.css133941955830407948 0
 77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\AZ.js121436361000000000 0
 60C:\Users\Jannes\Documents\groove\node_modules\@parcel\events133696634736514047 1
 75C:\Users\Jannes\Documents\groove\node_modules\json-parse-even-better-errors133696634670885498 1
@@ -198,11 +202,11 @@
 83C:\Users\Jannes\Documents\groove\node_modules\node-addon-api\tools\eslint-format.js121436361000000000 0
 72C:\Users\Jannes\Documents\groove\node_modules\svgo\plugins\removeDesc.js121436361000000000 0
 72C:\Users\Jannes\Documents\groove\node_modules\utility-types\CHANGELOG.md121436361000000000 0
-62C:\Users\Jannes\Documents\groove\src\css\components\footer.css133872745611816099 0
+62C:\Users\Jannes\Documents\groove\src\css\components\footer.css133938491244544766 0
 71C:\Users\Jannes\Documents\groove\node_modules\file-entry-cache\cache.js121436361000000000 0
 52C:\Users\Jannes\Documents\groove\node_modules\@babel133696634642996951 1
 62C:\Users\Jannes\Documents\groove\node_modules\eslint\README.md121436361000000000 0
-60C:\Users\Jannes\Documents\groove\src\css\components\form.css133697333422165176 0
+60C:\Users\Jannes\Documents\groove\src\css\components\form.css133942009115516875 0
 81C:\Users\Jannes\Documents\groove\node_modules\css-tree\lib\generator\sourceMap.js121436361000000000 0
 75C:\Users\Jannes\Documents\groove\node_modules\cosmiconfig\dist\loaders.d.ts121436361000000000 0
 61C:\Users\Jannes\Documents\groove\node_modules\@parcel\watcher133696634688166912 1
@@ -560,6 +564,7 @@
 64C:\Users\Jannes\Documents\groove\node_modules\dom-serializer\lib133696634689248772 1
 78C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\_\_get_prototype_of133696634786661264 1
 82C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\no-sparse-arrays.js121436361000000000 0
+60C:\Users\Jannes\Documents\groove\dist\index.dd999a97.css.map133941964677904285 0
 71C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\cjs\_get.cjs121436361000000000 0
 55C:\Users\Jannes\Documents\groove\node_modules\lmdb\dict133696634784445023 1
 95C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\_\_class_check_private_static_access133696634778763760 1
@@ -624,11 +629,11 @@
 75C:\Users\Jannes\Documents\groove\node_modules\source-map\dist\source-map.js131511695990000000 0
 72C:\Users\Jannes\Documents\groove\node_modules\text-table\readme.markdown130254177610000000 0
 97C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\css-image-orientation.js121436361000000000 0
-76C:\Users\Jannes\Documents\groove\node_modules\mdn-data\css\units.schema.json121436361000000000 0
-75C:\Users\Jannes\Documents\groove\node_modules\utility-types\dist\index.d.ts121436361000000000 0
 46C:\Users\Jannes\Documents\groove\img\amp03.jpg133695080455541272 0
 96C:\Users\Jannes\Documents\groove\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\COPYRIGHT121436361000000000 0
 53C:\Users\Jannes\Documents\groove\node_modules\js-yaml133696634754459210 1
+75C:\Users\Jannes\Documents\groove\node_modules\utility-types\dist\index.d.ts121436361000000000 0
+76C:\Users\Jannes\Documents\groove\node_modules\mdn-data\css\units.schema.json121436361000000000 0
 94C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\no-unmodified-loop-condition.js121436361000000000 0
 57C:\Users\Jannes\Documents\groove\node_modules\json-buffer133696634720682041 1
 80C:\Users\Jannes\Documents\groove\node_modules\htmlnano\lib\modules\minifySvg.cjs121436361000000000 0
@@ -701,6 +706,7 @@
 92C:\Users\Jannes\Documents\groove\node_modules\json-stable-stringify-without-jsonify\index.js131263114720000000 0
 77C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\no-new-func.js121436361000000000 0
 59C:\Users\Jannes\Documents\groove\node_modules\node-releases133696634682502087 1
+56C:\Users\Jannes\Documents\groove\dist\index.7b4a62f4.css133942003986940816 0
 78C:\Users\Jannes\Documents\groove\node_modules\svgo\plugins\convertTransform.js121436361000000000 0
 52C:\Users\Jannes\Documents\groove\node_modules\parcel133696634741639475 1
 77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\MY.js121436361000000000 0
@@ -1790,6 +1796,7 @@
 69C:\Users\Jannes\Documents\groove\node_modules\json5\dist\index.min.js121436361000000000 0
 92C:\Users\Jannes\Documents\groove\node_modules\electron-to-chromium\full-chromium-versions.js121436361000000000 0
 74C:\Users\Jannes\Documents\groove\node_modules\semver\classes\comparator.js121436361000000000 0
+60C:\Users\Jannes\Documents\groove\dist\index.3b0ccffb.css.map133939298595087771 0
 72C:\Users\Jannes\Documents\groove\node_modules\nth-check\lib\esm\index.js121436361000000000 0
 108C:\Users\Jannes\Documents\groove\node_modules\@parcel\core\test\fixtures\invalid-source-missing\package.json121436361000000000 0
 77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\MX.js121436361000000000 0
@@ -2084,7 +2091,6 @@
 77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\NL.js121436361000000000 0
 114C:\Users\Jannes\Documents\groove\node_modules\ordered-binary\.nyc_output\5b6bd808-0399-4ee6-9395-344688761dfa.json121436361000000000 0
 69C:\Users\Jannes\Documents\groove\node_modules\node-addon-api\index.js121436361000000000 0
-84C:\Users\Jannes\Documents\groove\node_modules\ordered-binary\.nyc_output\processinfo133696634688636923 1
 126C:\Users\Jannes\Documents\groove\node_modules\ordered-binary\.nyc_output\processinfo\5b6bd808-0399-4ee6-9395-344688761dfa.json121436361000000000 0
 81C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\http3.js121436361000000000 0
 80C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\no-else-return.js121436361000000000 0
@@ -2392,6 +2398,7 @@
 88C:\Users\Jannes\Documents\groove\node_modules\css-select\lib\pseudo-selectors\aliases.js121436361000000000 0
 94C:\Users\Jannes\Documents\groove\node_modules\lmdb\node_modules\node-addon-api\tools\README.md121436361000000000 0
 65C:\Users\Jannes\Documents\groove\node_modules\lmdb\dist\index.cjs121436361000000000 0
+56C:\Users\Jannes\Documents\groove\dist\index.8b7820a2.css133942007493817795 0
 113C:\Users\Jannes\Documents\groove\node_modules\@parcel\core\test\fixtures\targets-default-distdir-two\package.json121436361000000000 0
 103C:\Users\Jannes\Documents\groove\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c121436361000000000 0
 76C:\Users\Jannes\Documents\groove\node_modules\lmdb\dependencies\lmdb-data-v1133696634682752068 1
@@ -2399,7 +2406,6 @@
 100C:\Users\Jannes\Documents\groove\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\midl-sparse.c121436361000000000 0
 63C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\eslint133696634778703738 1
 75C:\Users\Jannes\Documents\groove\node_modules\lmdb\dependencies\lz4\lib\dll133696634772011705 1
-89C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\object-property-newline.js121436361000000000 0
 84C:\Users\Jannes\Documents\groove\node_modules\lmdb\dependencies\lz4\lib\liblz4.pc.in121436361000000000 0
 86C:\Users\Jannes\Documents\groove\node_modules\dom-serializer\lib\esm\foreignNames.d.ts121436361000000000 0
 79C:\Users\Jannes\Documents\groove\node_modules\lmdb\dependencies\lz4\lib\LICENSE121436361000000000 0
@@ -2562,6 +2568,7 @@
 64C:\Users\Jannes\Documents\groove\node_modules\json5\package.json121436361000000000 0
 61C:\Users\Jannes\Documents\groove\node_modules\acorn\bin\acorn121436361000000000 0
 61C:\Users\Jannes\Documents\groove\node_modules\json5\README.md121436361000000000 0
+55C:\Users\Jannes\Documents\groove\dist\vid3.e404901c.mp4133939290016746259 0
 72C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\shared\types.js121436361000000000 0
 66C:\Users\Jannes\Documents\groove\node_modules\json5\lib\index.d.ts121436361000000000 0
 64C:\Users\Jannes\Documents\groove\node_modules\json5\lib\index.js121436361000000000 0
@@ -2599,6 +2606,7 @@
 84C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\_\_using_ctx\package.json121436361000000000 0
 102C:\Users\Jannes\Documents\groove\node_modules\json-stable-stringify-without-jsonify\example\key_cmp.js131263113780000000 0
 88C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\grouped-accessor-pairs.js121436361000000000 0
+56C:\Users\Jannes\Documents\groove\dist\index.44b8c3c8.css133942009222580527 0
 101C:\Users\Jannes\Documents\groove\node_modules\json-stable-stringify-without-jsonify\example\nested.js131263113780000000 0
 98C:\Users\Jannes\Documents\groove\node_modules\json-stable-stringify-without-jsonify\example\str.js131263113780000000 0
 104C:\Users\Jannes\Documents\groove\node_modules\json-stable-stringify-without-jsonify\example\value_cmp.js131263113780000000 0
@@ -2650,6 +2658,7 @@
 64C:\Users\Jannes\Documents\groove\node_modules\js-yaml\lib\schema133696634750155416 1
 86C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\esm\_array_like_to_array.js121436361000000000 0
 63C:\Users\Jannes\Documents\groove\node_modules\is-json\README.md130487934660000000 0
+60C:\Users\Jannes\Documents\groove\dist\index.1b6843a6.css.map133939299713103117 0
 62C:\Users\Jannes\Documents\groove\node_modules\js-yaml\lib\type133696634753169182 1
 66C:\Users\Jannes\Documents\groove\node_modules\ajv\lib\dotjs\not.js121436361000000000 0
 65C:\Users\Jannes\Documents\groove\node_modules\js-yaml\lib\type.js121436361000000000 0
@@ -3081,6 +3090,7 @@
 73C:\Users\Jannes\Documents\groove\node_modules\eslint-visitor-keys\LICENSE121436361000000000 0
 79C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\let.js121436361000000000 0
 104C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\_\_tagged_template_literal_loose\package.json121436361000000000 0
+56C:\Users\Jannes\Documents\groove\dist\index.3b0ccffb.css133939298594787756 0
 73C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\max-len.js121436361000000000 0
 72C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\cjs\index.cjs121436361000000000 0
 88C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\function-paren-newline.js121436361000000000 0
@@ -3108,6 +3118,7 @@
 60C:\Users\Jannes\Documents\groove\node_modules\eslint\LICENSE121436361000000000 0
 106C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\_\_class_private_field_destructure\package.json121436361000000000 0
 87C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\src\_array_like_to_array.mjs121436361000000000 0
+60C:\Users\Jannes\Documents\groove\dist\index.44b8c3c8.css.map133942009222736802 0
 64C:\Users\Jannes\Documents\groove\node_modules\acorn-jsx\index.js121436361000000000 0
 82C:\Users\Jannes\Documents\groove\node_modules\eslint\messages\all-files-ignored.js121436361000000000 0
 99C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\cjs\_object_without_properties_loose.cjs121436361000000000 0
@@ -3313,6 +3324,7 @@
 86C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\object-curly-spacing.js121436361000000000 0
 64C:\Users\Jannes\Documents\groove\node_modules\css-what\readme.md121436361000000000 0
 87C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\blobbuilder.js121436361000000000 0
+89C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\object-property-newline.js121436361000000000 0
 85C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\css-fixed.js121436361000000000 0
 60C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\_133696634795544711 1
 82C:\Users\Jannes\Documents\groove\node_modules\eslint\lib\rules\object-shorthand.js121436361000000000 0
@@ -3525,7 +3537,7 @@
 85C:\Users\Jannes\Documents\groove\node_modules\electron-to-chromium\full-versions.json121436361000000000 0
 109C:\Users\Jannes\Documents\groove\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js121436361000000000 0
 76C:\Users\Jannes\Documents\groove\node_modules\electron-to-chromium\README.md121436361000000000 0
-48C:\Users\Jannes\Documents\groove\dist\index.html133933243939691747 0
+48C:\Users\Jannes\Documents\groove\dist\index.html133942009222580527 0
 78C:\Users\Jannes\Documents\groove\node_modules\electron-to-chromium\versions.js121436361000000000 0
 80C:\Users\Jannes\Documents\groove\node_modules\electron-to-chromium\versions.json121436361000000000 0
 77C:\Users\Jannes\Documents\groove\node_modules\dotenv-expand\dotenv-expand.png121436361000000000 0
@@ -3541,6 +3553,7 @@
 71C:\Users\Jannes\Documents\groove\node_modules\dotenv\lib\env-options.js121436361000000000 0
 76C:\Users\Jannes\Documents\groove\node_modules\chrome-trace-event\LICENSE.txt121436361000000000 0
 107C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\client-hints-dpr-width-viewport.js121436361000000000 0
+56C:\Users\Jannes\Documents\groove\dist\index.efd3f6e8.css133939320923661288 0
 62C:\Users\Jannes\Documents\groove\node_modules\domutils\LICENSE121436361000000000 0
 67C:\Users\Jannes\Documents\groove\node_modules\domutils\package.json121436361000000000 0
 64C:\Users\Jannes\Documents\groove\node_modules\domutils\readme.md121436361000000000 0
@@ -3723,6 +3736,7 @@
 72C:\Users\Jannes\Documents\groove\node_modules\css-what\lib\es\parse.d.ts121436361000000000 0
 95C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\cjs\_initializer_define_property.cjs121436361000000000 0
 76C:\Users\Jannes\Documents\groove\node_modules\css-what\lib\es\parse.d.ts.map121436361000000000 0
+56C:\Users\Jannes\Documents\groove\dist\index.e3032df9.css133940321094256482 0
 70C:\Users\Jannes\Documents\groove\node_modules\css-what\lib\es\parse.js121436361000000000 0
 76C:\Users\Jannes\Documents\groove\node_modules\css-what\lib\es\stringify.d.ts121436361000000000 0
 78C:\Users\Jannes\Documents\groove\node_modules\cosmiconfig\dist\getDirectory.js121436361000000000 0
@@ -4221,7 +4235,6 @@
 77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\VG.js121436361000000000 0
 83C:\Users\Jannes\Documents\groove\node_modules\@parcel\utils\src\prettyDiagnostic.js121436361000000000 0
 77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\VI.js121436361000000000 0
-77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\WF.js121436361000000000 0
 77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\WS.js121436361000000000 0
 77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\YT.js121436361000000000 0
 77C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\regions\ZA.js121436361000000000 0
@@ -4275,6 +4288,7 @@
 90C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\css-appearance.js121436361000000000 0
 74C:\Users\Jannes\Documents\groove\node_modules\ajv\lib\dotjs\_limitItems.js121436361000000000 0
 88C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\css-autofill.js121436361000000000 0
+60C:\Users\Jannes\Documents\groove\dist\index.6c717729.css.map133941962305599097 0
 99C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\css-backgroundblendmode.js121436361000000000 0
 98C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\css-boxdecorationbreak.js121436361000000000 0
 86C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\_\_ts_metadata\package.json121436361000000000 0
@@ -4343,6 +4357,7 @@
 95C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\css-scroll-behavior.js121436361000000000 0
 89C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\css-scrollbar.js121436361000000000 0
 84C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\css-sel3.js121436361000000000 0
+56C:\Users\Jannes\Documents\groove\dist\index.6f449256.css133939323207231513 0
 85C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\css-table.js121436361000000000 0
 92C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\css-text-justify.js121436361000000000 0
 92C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\css-text-spacing.js121436361000000000 0
@@ -4457,6 +4472,7 @@
 90C:\Users\Jannes\Documents\groove\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64133696634700199023 1
 85C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\maxlength.js121436361000000000 0
 104C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js121436361000000000 0
+56C:\Users\Jannes\Documents\groove\dist\index.6c717729.css133941962305355543 0
 74C:\Users\Jannes\Documents\groove\node_modules\@parcel\package-manager\test133696634757694305 1
 91C:\Users\Jannes\Documents\groove\node_modules\@parcel\transformer-postcss\src\loadConfig.js121436361000000000 0
 106C:\Users\Jannes\Documents\groove\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-plaintext.js121436361000000000 0
@@ -4817,6 +4833,7 @@
 103C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\src\_create_for_of_iterator_helper_loose.mjs121436361000000000 0
 80C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\src\_create_super.mjs121436361000000000 0
 76C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\src\_decorate.mjs121436361000000000 0
+60C:\Users\Jannes\Documents\groove\dist\index.8b7820a2.css.map133942007493997145 0
 84C:\Users\Jannes\Documents\groove\node_modules\@nodelib\fs.walk\out\readers\sync.d.ts121436361000000000 0
 76C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\src\_defaults.mjs121436361000000000 0
 83C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\src\_define_property.mjs121436361000000000 0
@@ -4883,6 +4900,7 @@
 102C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\esm\_class_static_private_field_spec_get.js121436361000000000 0
 76C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\esm\_construct.js121436361000000000 0
 79C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\esm\_create_class.js121436361000000000 0
+56C:\Users\Jannes\Documents\groove\dist\index.1b6843a6.css133939299712920324 0
 75C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\esm\_decorate.js121436361000000000 0
 95C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\esm\_define_enumerable_properties.js121436361000000000 0
 74C:\Users\Jannes\Documents\groove\node_modules\@swc\helpers\esm\_dispose.js121436361000000000 0
@@ -5042,7 +5060,6 @@
 98C:\Users\Jannes\Documents\groove\node_modules\@babel\highlight\node_modules\chalk\types\index.d.ts121436361000000000 0
 80C:\Users\Jannes\Documents\groove\node_modules\@parcel\workers\test\workerfarm.js121436361000000000 0
 89C:\Users\Jannes\Documents\groove\node_modules\@parcel\workers\test\integration\workerfarm133696634742393368 1
-100C:\Users\Jannes\Documents\groove\node_modules\@parcel\workers\test\integration\workerfarm\console.js121436361000000000 0
 63C:\Users\Jannes\Documents\groove\dist\speaker-dark.cb6606ea.jpg133927371673392045 0
 97C:\Users\Jannes\Documents\groove\node_modules\@parcel\workers\test\integration\workerfarm\echo.js121436361000000000 0
 96C:\Users\Jannes\Documents\groove\node_modules\@parcel\workers\test\integration\workerfarm\ipc.js121436361000000000 0
@@ -5146,6 +5163,7 @@
 77C:\Users\Jannes\Documents\groove\node_modules\@parcel\transformer-svg\LICENSE121436361000000000 0
 82C:\Users\Jannes\Documents\groove\node_modules\@parcel\transformer-svg\package.json121436361000000000 0
 83C:\Users\Jannes\Documents\groove\node_modules\@parcel\transformer-svg\src\inline.js121436361000000000 0
+56C:\Users\Jannes\Documents\groove\dist\index.98ddc4b6.css133939322484890553 0
 91C:\Users\Jannes\Documents\groove\node_modules\@parcel\transformer-svg\src\SVGTransformer.js121436361000000000 0
 89C:\Users\Jannes\Documents\groove\node_modules\@parcel\transformer-svg\lib\dependencies.js121436361000000000 0
 91C:\Users\Jannes\Documents\groove\node_modules\@parcel\transformer-svg\lib\SVGTransformer.js121436361000000000 0
@@ -5560,6 +5578,7 @@
 109C:\Users\Jannes\Documents\groove\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext\package.json121436361000000000 0
 106C:\Users\Jannes\Documents\groove\node_modules\@parcel\core\test\fixtures\config-plugin-not-found\.parcelrc121436361000000000 0
 103C:\Users\Jannes\Documents\groove\node_modules\@parcel\core\test\fixtures\config-node-pipeline\.parcelrc121436361000000000 0
+49C:\Users\Jannes\Documents\groove\dist\contact.php133933241443193055 0
 99C:\Users\Jannes\Documents\groove\node_modules\@parcel\core\test\fixtures\config-malformed\.parcelrc121436361000000000 0
 107C:\Users\Jannes\Documents\groove\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc121436361000000000 0
 116C:\Users\Jannes\Documents\groove\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-multiple121436361000000000 0
@@ -5888,13 +5907,23 @@
 60C:\Users\Jannes\Documents\groove\dist\index.3e636956.css.map133921157930004500 0
 56C:\Users\Jannes\Documents\groove\dist\index.61b82b68.css133697378996290416 0
 60C:\Users\Jannes\Documents\groove\dist\index.61b82b68.css.map133697378996636219 0
+60C:\Users\Jannes\Documents\groove\dist\index.6f449256.css.map133939323207424000 0
+56C:\Users\Jannes\Documents\groove\dist\index.74195fa4.css133939308004940799 0
+60C:\Users\Jannes\Documents\groove\dist\index.74195fa4.css.map133939308005234589 0
+60C:\Users\Jannes\Documents\groove\dist\index.7b4a62f4.css.map133942003987164583 0
+60C:\Users\Jannes\Documents\groove\dist\index.98ddc4b6.css.map133939322485090519 0
 56C:\Users\Jannes\Documents\groove\dist\index.b5baa50d.css133696647930215400 0
 60C:\Users\Jannes\Documents\groove\dist\index.b5baa50d.css.map133696647930395412 0
 56C:\Users\Jannes\Documents\groove\dist\index.bcaa296e.css133697384474758721 0
+56C:\Users\Jannes\Documents\groove\dist\index.c7bffdf1.css133939290038700696 0
+60C:\Users\Jannes\Documents\groove\dist\index.c7bffdf1.css.map133939290038835423 0
 56C:\Users\Jannes\Documents\groove\dist\index.c92073ef.css133697378790055131 0
 60C:\Users\Jannes\Documents\groove\dist\index.c92073ef.css.map133697378792780482 0
 56C:\Users\Jannes\Documents\groove\dist\index.cf0f4eb3.css133928239822018288 0
 56C:\Users\Jannes\Documents\groove\dist\index.d19c2e07.css133927189278528560 0
+56C:\Users\Jannes\Documents\groove\dist\index.dd999a97.css133941964677571920 0
+60C:\Users\Jannes\Documents\groove\dist\index.e3032df9.css.map133940321094436540 0
+60C:\Users\Jannes\Documents\groove\dist\index.efd3f6e8.css.map133939320923887372 0
 60C:\Users\Jannes\Documents\groove\dist\merch_cap.e2699258.jpg133927371673491985 0
 67C:\Users\Jannes\Documents\groove\dist\merch_cap_tamara.b1dba360.jpg133927371673512028 0
 61C:\Users\Jannes\Documents\groove\dist\merch_pull.60f4f289.jpg133927371673481957 0
@@ -5906,4 +5935,4 @@
 60C:\Users\Jannes\Documents\groove\dist\speaker04.696750c7.jpg133696637110664098 0
 55C:\Users\Jannes\Documents\groove\dist\vid2.d131b2c7.mp4133696637112274095 0
 55C:\Users\Jannes\Documents\groove\dist\vid2.ecd69d60.mp4133927371647084717 0
-54C:\Users\Jannes\Documents\groove\.vscode\settings.json133712064624172516 0
+54C:\Users\Jannes\Documents\groove\.vscode\settings.json133941954518714591 0

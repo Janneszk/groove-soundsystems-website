@@ -3,35 +3,121 @@ header {
 }
 
 .head-container {
+  
   width: 100%;
   height: 100vh;
   display: flex;
   color: var(--secondary-color);
+
+} 
+
+
+.hero-header {
+ background-image: url("../../img/groove_header_02.jpg"); 
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+  background-position:center;
+    height: 100vh;
+    position: relative; /* wichtig für das Video-Overlay */
+    overflow: hidden;
 }
 
-.bottom-container {
-  width: 100%;
-  height: 100vh;
-  display: flex;
-  color: var(--secondary-color);
+.soundcheck-image {
+  background-image: url("../../img/groove_header_02.jpg"); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position:center;
+    
+    position: relative; /* wichtig für das Video-Overlay */
+    overflow: hidden;
 }
+
+
+.hero-video {
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        z-index: 1;
+    }
+
+    .hero-video.loaded {
+        opacity: 1;
+    }
+
+    .hero-content {
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    color: var(--secondary-color);
+    text-align: start;
+    z-index: 2;
+    padding: 20px;
+    /* text-shadow: 2px 2px 8px rgba(0,0,0,0.7); */
+}
+
+
+@media (min-width: 768px) {
+    .hero-video {
+    display: none;
+    opacity: 0;
+    transition: opacity 1s ease-in-out;
+}
+
+.hero-content {
+    left:30%;
+    padding: 100px;
+    /* text-shadow: 2px 2px 8px rgba(0,0,0,0.7); */
+    width: 40%;
+}
+
+}
+
+
+
+.mobile-video-wrapper {
+    display: block;
+    width: 100%;
+    margin-bottom: 0; /* Abstand zum Footer */
+}
+
+  .mobile-video-wrapper video {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
 
 .head-container > div:nth-child(1) {
   height: 100%; 
   width: 100%; 
+  
 }
+
 
 .head-container > div:nth-child(2) > div:nth-child(1) {
   max-width: 380px;
   margin-bottom: 80px;
 }
 
+
 .background-clip {
   position: absolute;
   right: 0;
   top: 0;
   z-index: -1;
-}
+  object-fit: cover;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto; 
+} 
+
 
 .container-fluid {
 		padding: 0 ;
@@ -136,6 +222,9 @@ section .row{
   align-items:center;
   justify-content: start;
 }
+
+
+  
 
 @media screen and (min-width: 768px) {
 
@@ -245,6 +334,10 @@ section .row{
   .mail {
     justify-content: start;
   }
+
+  .mobile-video-wrapper {
+  display: none;
+}
 
 }
 
