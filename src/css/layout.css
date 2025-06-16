@@ -66,9 +66,13 @@ section .row{
   display: none;
 }
 
+#description--speaker .row {
+  padding-bottom: 0;
+}
+
 #description--speaker img{
-	padding-bottom: var(--space-md);
-  display: none;
+	/* padding-bottom: var(--space-md); */
+  padding-top: var(--space-md);
 }
 
 #soundcheck p,
@@ -208,15 +212,18 @@ section .row{
     display: unset;
   }
 
-  #description--speaker img {
-    display: unset;
-  }
-
   #description--speaker .row {
+    padding-bottom: var(--space-md);
     padding-left: 100px;
     padding-right: 100px;
   }
 
+  #description--speaker img {
+    padding-top: unset;
+    padding-bottom: var(--space-md); 
+    display: unset;
+  }
+  
   #soundcheck {
     padding-bottom: 0px;
   }
