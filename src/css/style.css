@@ -33,6 +33,7 @@ body{
     --primary-color: #263238;
     --secondary-color: #FFFAF0;
     --highlight-section-bg: #D2B48C;
+    --intro-section-bg : #8F9779;
 
     --space-xs: 0.5rem; /* 8 px */
     --space-sm: 1.25rem; /* 20 px */
