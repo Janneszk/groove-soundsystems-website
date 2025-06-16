@@ -102,6 +102,17 @@ section .row{
   padding: var(--space-sm); 
 }
 
+.quote {
+  font-style: italic;
+  font-size: clamp(1rem, 1.5vw, 1.25rem);
+  line-height: 1.8;
+  letter-spacing: 0.05em;
+}
+
+.arrow-scale {
+  transform: scaleX(-1);
+}
+
 #contact .row {
   padding-bottom: var(--space-lg);
 }
